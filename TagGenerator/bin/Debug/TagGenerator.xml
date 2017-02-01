@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VarXml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DBConnection>
+	<DataBaseType>0</DataBaseType>
+	<DataBase>TagGenerator.mdb</DataBase>
+	<LoginFormNeed>false</LoginFormNeed>
+	<PasswordNeed>false</PasswordNeed>
+	<User>admin</User>
+	<Password></Password>
+  </DBConnection>
+  <SystemPlatform>
+    <NodeName>192.168.10.16</NodeName>
+    <GalaxyName>Disp_Angidrit</GalaxyName>
+    <Login>admin</Login>
+    <Password>123</Password>
+	<NameField>Name</NameField>
+    <DescriptionField>Description</DescriptionField>
+    <PointNumField>PointNum</PointNumField>
+    <UnitField>Unit</UnitField>
+  </SystemPlatform>
+</VarXml>

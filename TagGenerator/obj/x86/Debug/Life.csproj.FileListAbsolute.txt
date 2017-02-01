@@ -1,0 +1,128 @@
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.Properties.Resources.resources
+D:\Мои документы\!Projects\Life\Life\bin\Debug\Life.exe.config
+D:\Мои документы\!Projects\Life\Life\bin\Debug\Life.exe
+D:\Мои документы\!Projects\Life\Life\bin\Debug\Life.pdb
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.exe
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.pdb
+D:\Мои документы\!Projects\Life\Life\Life\bin\Debug\Life.exe.config
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.exe
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.pdb
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.FormMain.resources
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.Properties.Resources.resources
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.DatebookView.resources
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.exe.licenses
+D:\Мои документы\!Projects\Life\Life\Life\bin\Debug\Life.exe
+D:\Мои документы\!Projects\Life\Life\Life\bin\Debug\Life.pdb
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.CostTypeView.resources
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.PersonView.resources
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.EducationView.resources
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.PhoneTypeView.resources
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.SexView.resources
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.PersonCategoryView.resources
+D:\Мои документы\!Projects\Life\Life\Life\obj\x86\Debug\Life.PlaceView.resources
+D:\Мои документы\!Projects\Life\Life\Life\bin\Debug\RapidInterface_v01.dll
+D:\Мои документы\!Projects\Life\Life\Life\bin\Debug\RapidInterface_v01.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.MainForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.Properties.Resources.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.InterfaceReport.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.DatebookCostCollectionView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.CostTypeView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.DatebookProfitCollectionView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.DatebookView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.EducationView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.ElectronCouplingTypeView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.NoteTypeView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.NoteView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.PersonView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.PhoneTypeView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.PlaceView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.ProfitTypeView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.SexView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.PersonCategoryView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.SportTypeView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.Temp.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.csproj.GenerateResource.Cache
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.exe.licenses
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\bin\Debug\Life.exe.config
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\bin\Debug\Life.exe
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\bin\Debug\Life.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.exe
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.csprojResolveAssemblyReference.cache
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.XtraReportEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.DatebookMoneyReport.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.DatebookMoneyReportView.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\bin\Debug\RapidInterface_v01.dll
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Life\Life\bin\Debug\RapidInterface_v01.pdb
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.MainForm.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.DatebookMoneyReport.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.InterfaceReport.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.XtraReportEx.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.DatebookCostCollectionView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.CostTypeView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.DatebookMoneyReportView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.DatebookProfitCollectionView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.DatebookView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.EducationView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.ElectronCouplingTypeView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.NoteTypeView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.NoteView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.PersonView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.PhoneTypeView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.PlaceView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.ProfitTypeView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.SexView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.PersonCategoryView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.SportTypeView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.Temp.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.csproj.GenerateResource.Cache
+D:\Мои документы\!Projects\Life\Life\bin\Debug\RapidInterface.dll
+D:\Мои документы\!Projects\Life\Life\bin\Debug\RapidInterface.pdb
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.exe.licenses
+M:\!Projects\Life\Life\bin\Debug\Life.exe.config
+M:\!Projects\Life\Life\obj\x86\Debug\Life.exe
+M:\!Projects\Life\Life\obj\x86\Debug\Life.pdb
+M:\!Projects\Life\Life\bin\Debug\Life.exe
+M:\!Projects\Life\Life\bin\Debug\Life.pdb
+M:\!Projects\Life\Life\bin\Debug\RapidInterface.dll
+M:\!Projects\Life\Life\bin\Debug\RapidInterface.pdb
+M:\!Projects\Life\Life\obj\x86\Debug\Life.csprojResolveAssemblyReference.cache
+M:\!Projects\Life\Life\obj\x86\Debug\Life.MainForm.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.Properties.Resources.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.DatebookMoneyReport.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.InterfaceReport.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.XtraReportEx.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.DatebookCostCollectionView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.CostTypeView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.DatebookMoneyReportView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.DatebookProfitCollectionView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.DatebookView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.EducationView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.ElectronCouplingTypeView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.NoteTypeView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.NoteView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.PersonView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.PhoneTypeView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.PlaceView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.ProfitTypeView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.SexView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.PersonCategoryView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.SportTypeView.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.Temp.resources
+M:\!Projects\Life\Life\obj\x86\Debug\Life.csproj.GenerateResource.Cache
+M:\!Projects\Life\Life\obj\x86\Debug\Life.exe.licenses
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.csprojResolveAssemblyReference.cache
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.DatebookSportCollectionView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.DatebookMeetingCollectionView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.DatebookMeetingSexCollectionView.resources
+D:\Мои документы\!Projects\Life\Life\obj\x86\Debug\Life.DisbalanceView.resources
+D:\Мои документы\!Projects\TagGenerator\Life\bin\Debug\Life.exe.config
+D:\Мои документы\!Projects\TagGenerator\Life\obj\x86\Debug\Life.exe
+D:\Мои документы\!Projects\TagGenerator\Life\obj\x86\Debug\Life.pdb
